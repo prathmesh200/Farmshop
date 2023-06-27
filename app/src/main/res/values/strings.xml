@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FARMSHOP</string>
+    <string name="home_name">Home</string>
+    <string name="share_name">Share</string>
+    <string name="logout_name">Logout</string>
+    <string name="account_name">Account</string>
+    <string name="listing_name">Listing</string>
+    <string name="about_us_name">About us</string>
+    <string name="terms_and_condition_name">Terms and condition</string>
+    <string name="help_center_name">help center</string>
+    <string name="setting_name">setting</string>
+    <string name="businesses_name">businesses</string>
+    <string name="about_uss">About Us</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="save_account">Save account</string>
+    <string name="state">State</string>
+    <string name="city">City</string>
+
+
+</resources>

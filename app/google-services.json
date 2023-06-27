@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311257328726",
+    "firebase_url": "https://farmshop-aaded-default-rtdb.firebaseio.com",
+    "project_id": "farmshop-aaded",
+    "storage_bucket": "farmshop-aaded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311257328726:android:669f4fae7aafddbc0b5ff7",
+        "android_client_info": {
+          "package_name": "com.example.farmshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311257328726-hisa863h7vtqg1cvniohleh5hkctn9ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8pZ-L0or8Zdikg12Xz9M-S-7f6BB0aTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311257328726-hisa863h7vtqg1cvniohleh5hkctn9ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
